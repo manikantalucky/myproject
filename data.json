@@ -1,0 +1,49 @@
+{"basics":{
+  "image":"male.png",
+  "name":"manikanta",
+  "phoneno":"+91-999999999",
+  "email":"lucky@gmail.com",
+  "Address":"SRKR Engineering College."
+},
+"CarrerObjective":{
+  "info":"c language "
+},
+"education":[
+  {"degree":"B.Tech",
+  "institite":"SRKR Engineering College",
+  "date":["2016-2020","85%"]
+},
+{
+  "degree":"Intermediate",
+  "institite":"Sri Chaitanya",
+  "date":["2014-2016","96%"]
+},
+{
+  "degree":"SSC",
+  "institite":"Oxford",
+  "date":["2014","98%"]
+}
+],
+"techskill":[
+  {
+    "title":"languages",
+    "data":["c","c++","java","python","r"]
+  },
+  {
+    "title":"database",
+    "data":["sql","mysql","oracle"]
+  },
+  {
+    "title":"Operating Systems",
+    "data":["Windows","linex","Ubuntu"]
+  }
+],
+"Achievements":[
+  {
+    "coding":["49th rank in code master","Hackerrank two badges"]
+  },
+  {
+    "ppts":["participation in spurthi"]
+  }
+]
+}
